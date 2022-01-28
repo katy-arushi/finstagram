@@ -21,3 +21,7 @@ Finstagram is deployed on Heroku and can be found [here](https://intense-citadel
 - ActiveRecord makes things easy-peasy.
 - Learning new things with instructors makes things somewhat less scary.
 - There is no better feeling in the world than deploying and sharing your creation with friends.
+
+### Set up
+- `bin/serve` to start the server
+- Go to `localhost:3000`
