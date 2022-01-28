@@ -8,8 +8,14 @@ body, input {
   color: #244751;
 }
 
-a {
+.title {
   margin-left: 30px;
+  color: #8da7b8;
+  text-decoration: none;
+}
+
+.login-signup {
+  margin-right: 15px;
   color: #8da7b8;
   text-decoration: none;
 }
