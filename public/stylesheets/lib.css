@@ -9,6 +9,7 @@ body, input {
 }
 
 a {
+  margin-left: 30px;
   color: #8da7b8;
   text-decoration: none;
 }
